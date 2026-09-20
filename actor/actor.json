@@ -1,9 +1,0 @@
-{
-  "actorSpecification": 1,
-  "name": "canada-near-me-cz",
-  "title": "Canada Near Me — Czech Republic",
-  "description": "Finds products made in Canada and physically available in Czech stores.",
-  "version": "0.1",
-  "build": { "dockerfile": "../Dockerfile" },
-  "input": "./input_schema.json"
-}
